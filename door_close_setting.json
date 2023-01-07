@@ -1,0 +1,12 @@
+{
+    "dir":1,
+    "step":19000,
+    "acc_interval":16,
+    "acc_rate":6,
+    "acc_start":50,
+    "dec_interval":16,
+    "dec_rate":8,
+    "dec_start":17000,
+    "step_time_start":900,
+    "step_time_min":104
+}
